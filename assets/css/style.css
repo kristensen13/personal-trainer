@@ -6331,7 +6331,7 @@ hr {
 @media (max-width: 991px) {
   .contact-section .google-maps-area {
     position: relative;
-    padding-bottom: 35%;
+    padding-bottom: 70%;
     height: 0;
     overflow: hidden;
   }
