@@ -3095,6 +3095,9 @@ hr {
   .header-area .main-header {
     padding: 0 15px;
   }
+  .header-area .main-header .logo img {
+    width: 180px;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -4605,7 +4608,9 @@ hr {
 .footer-area .footer-top .single-footer-caption .footer-logo {
   margin-bottom: 30px;
 }
-
+.footer-area .footer-top .single-footer-caption .footer-logo img {
+  width: 25rem;
+}
 /* line 13, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_footer.scss */
 .footer-area .footer-bottom {
   border-top: 1px solid #1f2024;
