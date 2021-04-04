@@ -3096,7 +3096,7 @@ hr {
     padding: 0 15px;
   }
   .header-area .main-header .logo img {
-    width: 180px;
+    width: 15rem;
   }
 }
 
@@ -3104,6 +3104,9 @@ hr {
   /* line 5, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_headerMenu.scss */
   .header-area .main-header {
     padding: 0 20px;
+  }
+  .header-area .main-header .logo img {
+    width: 15rem;
   }
 }
 
